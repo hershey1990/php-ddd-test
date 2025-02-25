@@ -75,7 +75,7 @@ php-ddd-app
    make install
    ```
 
-4. Configure your database settings in `config/doctrine.php`.
+4. Configure your database settings in `config/doctrine.php` (Rename .env.example to .env to set db config).
 
 ## Usage
 
