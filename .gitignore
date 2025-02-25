@@ -1,0 +1,35 @@
+# Composer dependencies
+/vendor/
+
+# Composer
+composer.phar
+
+# Environment files
+/.env
+/.env.local
+/.env.*.local
+
+# Cache and logs
+/var/cache/
+/var/logs/
+/var/sessions/
+*.log
+
+# IDE files
+/.idea/
+/.vscode/
+/.phpstorm.meta.php
+/_ide_helper*.php
+
+# System files
+.DS_Store
+Thumbs.db
+
+# PHPUnit
+/phpunit.xml
+/.phpunit.result.cache
+
+# PHP CS Fixer
+/.php_cs.cache
+/.php-cs-fixer.cache
+
